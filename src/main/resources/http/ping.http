@@ -1,0 +1,4 @@
+GET {{host}}/get-lock
+Accept: application/json
+
+###
